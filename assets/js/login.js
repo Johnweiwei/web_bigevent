@@ -8,7 +8,6 @@ $(function () {
     $(".reg-box").hide();
   })
 
-
   var form = layui.form;
   var layer = layui.layer;
   form.verify({
